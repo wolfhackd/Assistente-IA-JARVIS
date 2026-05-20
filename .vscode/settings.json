@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
+        "dotenv",
+        "gemini",
+        "genai",
         "pyaudio",
         "pyttsx"
     ]
